@@ -1,32 +1,32 @@
-# [Flownoise](https://flownoise.vercel.app/)
-![flownoise-banner](./Assets/Screenshots/Flownoise.gif)
+# [deepwork](https://deepwork-app.vercel.app/)
+![deepwork-banner](./Assets/Screenshots/Screenshot%202024-11-12%20184758.png)
 
-### Deployment: [flownoise.vercel.app](https://flownoise.vercel.app/)
+### Deployment: [deepwork-app.vercel.app](https://deepwork-app.vercel.app/)
 ---
 
-## What is Flownoise?
-It's a productivity app that I made to make my life easier. You can use it to for your needs. Do you follow **pomodoro** technique? Then you'll love **flownoise**. I have added a timer with a bunch of useful features. And that's not it, if you like listening to ambient sound while working then **flownoise** got you covered. Flownoise has six different ambient sounds with separate volume control for each sound.
+## What is deepwork?
+It's a productivity app that I made to make my life easier. You can use it to for your needs. Do you follow **pomodoro** technique? Then you'll love **deepwork**. I have added a timer with a bunch of useful features. And that's not it, if you like listening to ambient sound while working then **deepwork** got you covered. Deepwork has six different ambient sounds with separate volume control for each sound.
 
-**The feature that I love the most is its audio notifications🔊 Flownoise will notify you to take breaks, hydrate yourself, and also stretch your body. This can be very helpful when you are working for long hours.**
+**The feature that I love the most is its audio notifications🔊 deepwork will notify you to take breaks, hydrate yourself, and also stretch your body. This can be very helpful when you are working for long hours.**
 
-## Flownoise UI
+## deepwork UI
 
 ### Light Mode:
-![flownoise-timer-ui](./Assets/Screenshots/Screenshot%202023-02-08%20013821.png)
+![deepwork-timer-ui](./Assets/Screenshots/lightMode.png)
 
-![flownoise-ui](./Assets/Screenshots/Screenshot%202023-02-08%20013915.png)
+![deepwork-ui](./Assets/Screenshots/ligtMode2.png)
 
 
 ### Dark Mode:
-![flownoise-dark-ui](./Assets/Screenshots/Screenshot%202023-02-08%20014129.png)
+![deepwork-dark-ui](./Assets/Screenshots/Screenshot%202024-11-12%20184758.png)
 
-![flownoise-dark-ui](./Assets/Screenshots/Screenshot%202023-02-08%20014322.png)
+![deepwork-dark-ui](./Assets/Screenshots/DarkMode2.png)
 
 ## Features
-- **Flownoise Session:** Get in flow➡️Recharge➡️Repeat🔁
+- **deepwork Session:** Get in flow➡️Recharge➡️Repeat🔁
   - Flow Time: 25mins, 40mins, 60mins
   -  Recharge Time: 5mins, 10mins, 15mins
-  - And this is **the most unique feature** of [flownoise](https://flownoise.vercel.app/) the ability to repeat your session.
+  - And this is **the most unique feature** of [deepwork](https://deepwork-app.vercel.app/) the ability to repeat your session.
   - You can **select number of times you want to repeat the timer**.
   ---
 - **Audio & Desktop Notifications:** Get audio and desktop notifications
